@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.183" height="16.626" viewBox="0 0 24.183 16.626">
+  <g id="coupon" transform="translate(0 -80)">
+    <g id="Group_1977" data-name="Group 1977" transform="translate(16.841 90.688)">
+      <g id="Group_1976" data-name="Group 1976" transform="translate(0 0)">
+        <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="0.5" cy="1" rx="0.5" ry="1" transform="translate(0.25 -0.375)" fill="#40386f"/>
+      </g>
+    </g>
+    <g id="Group_1979" data-name="Group 1979" transform="translate(12.091 84.75)">
+      <g id="Group_1978" data-name="Group 1978" transform="translate(0 0)">
+        <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="0.5" cy="1" rx="0.5" ry="1" transform="translate(0 -0.437)" fill="#40386f"/>
+      </g>
+    </g>
+    <g id="Group_1981" data-name="Group 1981" transform="translate(0 80)">
+      <g id="Group_1980" data-name="Group 1980">
+        <path id="Path_1290" data-name="Path 1290" d="M22.672,80H8.313a.761.761,0,0,0-.535.221L6.8,81.2l-.976-.978A.761.761,0,0,0,5.29,80H1.511A1.514,1.514,0,0,0,0,81.511v13.6a1.513,1.513,0,0,0,1.511,1.511H5.29a.761.761,0,0,0,.535-.221l.976-.978.976.976a.756.756,0,0,0,.535.222H22.672a1.512,1.512,0,0,0,1.511-1.511v-13.6A1.513,1.513,0,0,0,22.672,80ZM7.557,93.6H6.046V92.092H7.557Zm0-3.023H6.046V89.069H7.557Zm0-3.023H6.046V86.046H7.557Zm0-3.023H6.046V83.023H7.557Zm5.29-1.511A2.267,2.267,0,1,1,10.58,85.29,2.27,2.27,0,0,1,12.847,83.023ZM11.336,93.6a.756.756,0,0,1-.58-1.239l7.557-9.069a.755.755,0,1,1,1.159.969l-7.557,9.069A.755.755,0,0,1,11.336,93.6Zm6.046,0a2.267,2.267,0,1,1,2.267-2.267A2.27,2.27,0,0,1,17.382,93.6Z" transform="translate(0 -80)" fill="#40386f"/>
+      </g>
+    </g>
+  </g>
+</svg>
